@@ -1,13 +1,10 @@
-================================================================================
-    MICROSOFT FOUNDATION CLASS LIBRARY : BoolGraph Project Overview
-===============================================================================
+================================
+    BoolGraph Project Overview
+================================
 
-The application wizard has created this BoolGraph application for 
-you.  This application not only demonstrates the basics of using the Microsoft 
-Foundation Classes but is also a starting point for writing your application.
+See screenshots https://github.com/optiklab/BoolGraph/wiki
 
-This file contains a summary of what you will find in each of the files that
-make up your BoolGraph application.
+Summary of what you will find in each of the files that make up your BoolGraph application.
 
 BoolGraph.vcproj
     This is the main project file for VC++ projects generated using an application wizard. 
@@ -116,18 +113,3 @@ BoolGraph.manifest
 	from the application. The Application manifest  maybe included for redistribution 
 	as an external .manifest file that is installed in the same folder as the application 
 	executable or it may be included in the executable in the form of a resource. 
-/////////////////////////////////////////////////////////////////////////////
-
-Other notes:
-
-The application wizard uses "TODO:" to indicate parts of the source code you
-should add to or customize.
-
-If your application uses MFC in a shared DLL, you will need 
-to redistribute the MFC DLLs. If your application is in a language 
-other than the operating system's locale, you will also have to 
-redistribute the corresponding localized resources MFC80XXX.DLL. 
-For more information on both of these topics, please see the section on 
-redistributing Visual C++ applications in MSDN documentation. 
-
-/////////////////////////////////////////////////////////////////////////////
